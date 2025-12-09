@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class PRENCE19 {
     public static void main(String[] args) {
-        String[] names = {"Anna", "Ben", "Chris", "Dana"};
+        String[] names = {"JANNIN", "JUNREL", "YHOVEN", "KYLA"};
         int[] grades = {85, 90, 78, 92};
 
         String query = JOptionPane.showInputDialog("Enter student name:");
